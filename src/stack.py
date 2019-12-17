@@ -33,3 +33,9 @@ class Stack:
         Return item located at the top of the stack.
         """
         return self.items[len(self.items) - 1]
+    
+    def size(self):
+        """
+        Return the size (as integer) of the stack.
+        """
+        return len(self.items)
