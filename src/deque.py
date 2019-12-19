@@ -1,6 +1,6 @@
 class Deque:
     """
-    Deque (data structure) is an ordered collection of items where items
+    A deque (data structure) is an ordered collection of items where items
     are added and removed from either end (top or rear).
 
     Attributes:
